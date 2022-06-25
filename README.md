@@ -32,7 +32,7 @@ Projeto desenvolvido do zero, veja o projeto completo <a href="">clicando aqui</
 
 #### Entrar 
 
-```http
+```
   POST /login
 ```
 
