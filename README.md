@@ -16,7 +16,7 @@ Projeto desenvolvido do zero, veja o projeto completo <a href="">clicando aqui</
 
 #### Criar Usuário
 
-```http
+```
   POST /register
 ```
 
@@ -47,7 +47,7 @@ Projeto desenvolvido do zero, veja o projeto completo <a href="">clicando aqui</
 
 #### Lista de produtos 
 
-```http
+```
   GET /products
 ```
 
@@ -68,7 +68,7 @@ Projeto desenvolvido do zero, veja o projeto completo <a href="">clicando aqui</
 
 #### Lista de categorias 
 
-```http
+```
   GET /categories
 ```
 | Parâmetro   | Tipo       | Descrição                           |
@@ -82,7 +82,7 @@ Projeto desenvolvido do zero, veja o projeto completo <a href="">clicando aqui</
 
 #### Mudar a senha 
 
-```http
+```
   PUT /password
 ```
 
@@ -102,7 +102,7 @@ Projeto desenvolvido do zero, veja o projeto completo <a href="">clicando aqui</
 
 #### Adicionar Produto
 
-```http
+```
   POST /password
 ```
 
@@ -122,7 +122,7 @@ Projeto desenvolvido do zero, veja o projeto completo <a href="">clicando aqui</
 
 #### Adicionar Categoria
 
-```http
+```
   POST /category
 ```
 
@@ -137,7 +137,7 @@ Projeto desenvolvido do zero, veja o projeto completo <a href="">clicando aqui</
 
 #### Remover Produto
 
-```http
+```
   DELETE /product/:id
 ```
 
