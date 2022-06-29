@@ -6,7 +6,6 @@ api para cadastrar produtos da loja, deletar, modificar e listar.
 ## Projeto completo
 
 - [Front-end](https://github.com/lucas-marquisio/m-store)
-- [Back-end](https://github.com/lucas-marquisio/api-mstore)
 - [Mobile](https://github.com/lucas-marquisio/mobile-mstore)
 
 ## Documentação da API
